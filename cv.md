@@ -46,6 +46,7 @@ const isNarcissistic = n => {
 
 - [Image gallery](https://rolling-scopes-school.github.io/nexorqk-JSFEPRESCHOOL/image-galery/)
 - [Audio player](https://rolling-scopes-school.github.io/nexorqk-JSFEPRESCHOOL/audio-player/)
+- [CV](https://nexorqk.github.io/rsschool-cv/)
 
 ## Education
 
