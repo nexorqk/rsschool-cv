@@ -9,17 +9,7 @@
 
 ## About
 
-### The last year I have become an interest in frontend development and have an goal to get a job in the near future. I prefer see the result instant during the work and frontend is ideal for that. I have got some hobbies. I’m always very busy but when I’m free I like to read books. I think books help me to continue my education.
-
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-
----
-
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
-
----
+### The last year I have become an interest in frontend development and have an goal to get a job in the near future. I prefer see the result instant during the work and frontend is ideal for that. I have got some hobbies like walking and music. I think it helps with education.
 
 ## Skills
 
