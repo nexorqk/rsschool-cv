@@ -185,3 +185,17 @@ h1 {
   border-radius: 5px;
   color: white;
 }
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.github-link {
+  text-decoration: none;
+}
+
+.rs-school-logo {
+  width: 100px;
+  height: 100px;
+}
